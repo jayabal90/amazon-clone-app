@@ -6,6 +6,11 @@ https://challenge-e0e5e.web.app/
 
 ## Snapshot
 
-![ECommerceDB.png](https://github.com/ramortegui/e-commerce-db/blob/master/ECommerceDB.png)
+Home page
+![Front%20page.PNG](https://github.com/jayabal90/amazon-clone-app/blob/main/src/image/Front%20page.PNG)
+
+Checkout Page
+
+![Checkout.PNG](https://github.com/jayabal90/amazon-clone-app/blob/main/src/image/Checkout.PNG)
 
 
